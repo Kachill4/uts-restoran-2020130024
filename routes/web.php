@@ -13,6 +13,17 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('home');
-});
+// Route::get('/', function () {
+//     return view('home');
+// });
+use App\Http\Controllers\HomeController;
+Route::get('/', [App\Http\Controllers\HomeController::class,'index'])->name('home');
+
+use App\Http\Controllers\ProductController;
+Route::get('/product', ProductController::class)->name('product');
+
+// use App\Http\Controllers\TestimoniController;
+// Route::get('/testimoni', TestimoniController::class)->name('testimoni');
+
+use App\Http\Controllers\TestimoniController;
+Route::get('/testimoni', [App\Http\Controllers\TestimoniController::class,'index'])->name('testimoni');

@@ -1,9 +1,8 @@
 @extends('layout.master')
 @section('title', 'Product')
 @section('content')
+
 <h1 class="cover-heading">Our Product!</h1>
-
-
     <div id="showbox-example" class="showbox"><div class="card-columns">
     <div class="card">
     <div class="card-body">

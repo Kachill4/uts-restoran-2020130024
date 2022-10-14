@@ -14,11 +14,11 @@ class ProductController extends Controller
             "width" => "1080",
             "height" => "400"
             ],
-            // [
-            // "url" => "https://source.unsplash.com/user/charlesdeluvio/900x300",
-            // "width" => "1080",
-            // "height" => "400"
-            // ],
+            [
+            "url" => "images/roda.jpeg/900x300",
+            "width" => "1080",
+            "height" => "400"
+            ],
             // [
             // "url" => "https://source.unsplash.com/user/danielkorpai/900x300",
             // "width" => "1080",

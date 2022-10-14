@@ -4668,6 +4668,9 @@ a.badge-dark:focus, a.badge-dark.focus {
     padding: 4rem 2rem;
   }
 }
+.bg-orange {
+    background-color: #edb321 !important;
+  }
 
 .jumbotron-fluid {
   padding-right: 0;

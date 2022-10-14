@@ -7,7 +7,11 @@
     </p>
 
     <p class="text-left">
-        12 Maret 2021
+        Mini Foodcourt "Miso Kampung BAHAGIA" berdiri sejak 12 Maret 2021.
+        Nama BAHAGIA diambil menjadi nama brand perilisan pertama kali karena berharap
+        siapapun yang menikmati hidangan dari kami bisa merasakan kebahagiaan dalam kehidupannya.
+        Tidak hanya penjual saja yang bahagia karena punya pelanggan tetapi berdoa agar
+        para penikmat sajian bisa ikut berbahagia juga. Karena "Kita harus Bahagia". <BR> d('-')b
     </p>
 
 <div class="col-md-6 px-0">

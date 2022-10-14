@@ -10,20 +10,20 @@ class ProductController extends Controller
     {
         $carousels = [
             [
-            "url" => "https://source.unsplash.com/user/erondu/900x300",
+            "url" => "https://source.unsplash.com/user/bykrystal/900x300",
             "width" => "1080",
             "height" => "400"
             ],
-            [
-            "url" => "https://source.unsplash.com/user/charlesdeluvio/900x300",
-            "width" => "1080",
-            "height" => "400"
-            ],
-            [
-            "url" => "https://source.unsplash.com/user/danielkorpai/900x300",
-            "width" => "1080",
-            "height" => "400"
-            ]
+            // [
+            // "url" => "https://source.unsplash.com/user/charlesdeluvio/900x300",
+            // "width" => "1080",
+            // "height" => "400"
+            // ],
+            // [
+            // "url" => "https://source.unsplash.com/user/danielkorpai/900x300",
+            // "width" => "1080",
+            // "height" => "400"
+            // ]
             ];
             return view('product', compact('carousels'));
     }

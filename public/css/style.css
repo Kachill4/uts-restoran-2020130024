@@ -39,7 +39,7 @@ text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
 box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
 }
 .cover-container {
-max-width: 42em;
+max-width: 80em;
 }
 /*
 * Header
@@ -157,3 +157,10 @@ color: rgba(255, 255, 255, .5);
 }
 
 
+.map_container {
+    height: 350px;
+  }
+
+  .map_container .map-responsive {
+    height: 100%;
+  }

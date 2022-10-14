@@ -58,27 +58,6 @@
                 </div>
             </div>
 
-           {{-- <div class="carousel-item">
-                <div class="client_container layout_padding-top">
-                  <div class="img-box">
-                    <img src="images/erik.png" alt="">
-                </div>
-                <div class="detail-box">
-                    <h5>
-                    Erik Mario
-                    </h5>
-                    <p>
-                    <img src="images/left-quote.png" alt="">
-                    <span>
-                        Nagih loh...
-                    </span>
-                    <img src="images/right-quote.png" alt=""> <br>
-                    Untuk segi rasa gurih dari kuahnya jadi bikin ketagihan terus
-                    </p>
-                </div>
-                </div>
-            </div> --}}
-
           <div class="carousel-item">
             <div class="client_container layout_padding-top">
               <div class="img-box">
